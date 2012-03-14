@@ -1,0 +1,30 @@
+.table a { color: #333; }
+.table a:hover { color: #666; }
+
+.table { width: 100%; margin-bottom: 10px; cellspacing: 0px; border-collapse: collapse;}
+.table thead td { background: #9a9a9a; }
+.table td { border: 1px solid #ddd; padding: 5px; }
+
+
+.stickytopics_admin li {float: left;}
+.stickytopics_admin  li.empty a
+{ display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+
+.stickytopics_admin  li.up a
+{ background: url(../images/up.png) no-repeat; float: left; display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+
+.stickytopics_admin li.down a
+{ background: url(../images/down.png) no-repeat; float: left; display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+
+.stickytopics_admin li.delete a
+{ background: url(../images/delete.png) no-repeat; float: left; display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+
+.stickytopics_admin li.activate a
+{ background: url(../images/activate.png) no-repeat; float: left; display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+
+.stickytopics_admin li.deactivate a
+{ background: url(../images/deactivate.png) no-repeat; float: left; display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+
+.stickytopics_admin li.add a
+{ background: url(../images/add.png) no-repeat; float: left; display: block; height: 18px; margin-top: 3px; text-decoration: none; width: 18px; }
+

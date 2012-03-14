@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Sticky topics</lang>
+	</name>
+	<author>
+		<lang name="default">Alexei Lukin aka kerby</lang>
+	</author>
+	<homepage>http://imthinker.ru/plugin-stickytopics/</homepage>
+	<version>1.0.6</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Provides interface and hooks to make "sticky" topics</lang>
+		<lang name="russian">Предоставляет удобный интерфейс и хуки для работы с "прилепленными" топиками.</lang>
+	</description>
+
+</plugin>
